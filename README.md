@@ -1,10 +1,12 @@
 # UMDCTF 2020
 
-## jarred-3
+## Jarred 3
 So I only intended to write a writeup for this challenge only because I really love this for an introduction to memory forensics. I might not get this chance twice, so I was intrigued to try it.
 
 > Jarred is always having issues. He thinks he got malware from doing something dumb, but won't tell me what he was doing?
+
 > no real malware to worry about here
+
 > Drive link: https://drive.google.com/open?id=1g0j7rm53lU7ZRBM8XgkPkFpUgsfXpjfi
 
 That link might or might not be invalid by the time you reached this writeup, that depends on the author, drkmrin78.
